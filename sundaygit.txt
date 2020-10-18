@@ -1,2 +1,3 @@
 hello,sunday!
 creating a new branch is easy!
+study merge!
