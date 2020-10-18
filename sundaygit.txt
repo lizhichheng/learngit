@@ -1,3 +1,4 @@
 hello,sunday!
 creating a new branch is easy!
-master !
+<<<<<<< HEAD
+why failed?
